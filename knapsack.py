@@ -99,6 +99,8 @@ print("hasil chiperteks: ", list_chiperteks)
 #dekripsi
 print("")
 print("+++++++ dekripsi ++++++")
+print("chiperteks = ", list_chiperteks)
 deskrip = dekripsi(privateKey, m, n, list_chiperteks)
+print("chiper ke binary (dekripsi) = ", deskrip)
 binaryToText(deskrip)
 print("")
