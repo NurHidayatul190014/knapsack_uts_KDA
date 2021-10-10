@@ -81,6 +81,7 @@ m = 105
 n = 31
 publicKey = generatePublicKey(privateKey, m , n)
 
+print("")
 print("+++++++ algoritma knapsack (merkle-hellman)+++++")
 print("kunci private: ", privateKey)
 print("kunci publik: ",publicKey)
@@ -99,6 +100,5 @@ print("hasil chiperteks: ", list_chiperteks)
 print("")
 print("+++++++ dekripsi ++++++")
 deskrip = dekripsi(privateKey, m, n, list_chiperteks)
-
-
 binaryToText(deskrip)
+print("")
