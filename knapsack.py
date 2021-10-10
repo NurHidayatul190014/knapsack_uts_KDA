@@ -86,7 +86,7 @@ print("kunci private: ", privateKey)
 print("kunci publik: ",publicKey)
 
 # input teks
-masuk = input(str("masukkan kata yang diinginkan = "))
+masuk = str(input("masukkan kata yang diinginkan = "))
 print("")
 
 # enkripsi
