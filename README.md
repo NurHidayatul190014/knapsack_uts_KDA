@@ -4,6 +4,12 @@ tonton youtubenya dulu sebelum mencoba
 
 sumber inpirasi: https://youtu.be/OcYdmayEeds
 
+disini saya menyertakan 3 file yaitu:
+1. knapsack.py
+2. knapsack_modif_1.py
+3. 190411100014_NUR HIDAYATUL MUSTAFIT_KDA B_ALGORITMA KNAPSACK.pdf
+
+isi dari file pdf merupakan alur algoritma yang saya buat seperti yang ada pada video youtube saya
 isi file knapsack.py seperti di screenshoot, lalu untuk knapsack_modif_1.py hanya menambahkan inputan pada proses dekripsi
 
 ## screenshoot hasil
