@@ -1,7 +1,9 @@
 # knapsack merkle-hellman algorithm 
 
 tonton youtubenya dulu sebelum mencoba
+
 Link Youtube saya : https://youtu.be/fzbhNdhcU3M
+
 disini saya menyertakan 3 file yaitu:
 1. knapsack.py
 2. knapsack_modif_1.py
