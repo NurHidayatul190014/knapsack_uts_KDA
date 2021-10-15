@@ -10,6 +10,7 @@ disini saya menyertakan 3 file yaitu:
 3. 190411100014_NUR HIDAYATUL MUSTAFIT_KDA B_ALGORITMA KNAPSACK.pdf
 
 isi dari file pdf merupakan alur algoritma yang saya buat seperti yang ada pada video youtube saya
+
 isi file knapsack.py seperti di screenshoot, lalu untuk knapsack_modif_1.py hanya menambahkan inputan pada proses dekripsi
 
 sumber inpirasi: https://youtu.be/OcYdmayEeds
