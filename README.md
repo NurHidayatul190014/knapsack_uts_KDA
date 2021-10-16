@@ -2,7 +2,11 @@
 
 tonton youtubenya dulu sebelum mencoba
 
-Link Youtube saya : https://youtu.be/fzbhNdhcU3M
+Link Youtube saya 
+
+video demo singkat (3 menit) : https://youtu.be/Hawv16ybT0k
+
+video penjelasan code (30 menit) : https://youtu.be/fzbhNdhcU3M
 
 disini saya menyertakan 3 file yaitu:
 1. knapsack.py
